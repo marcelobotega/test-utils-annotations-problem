@@ -1,3 +1,5 @@
+// @vitest-environment nuxt
+
 import { describe, expect, it } from 'vitest'
 
 describe('my test', () => {
